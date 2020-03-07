@@ -3,7 +3,7 @@
 
 
 ### My research interests
-I focus on machine leaning, specially federated learning, lifelone lerning and other new areas.
+I focus on machine leaning, specially federated learning, lifelone learning and other new areas.
 
 
 ### Contact
